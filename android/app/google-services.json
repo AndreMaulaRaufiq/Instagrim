@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842463606957",
+    "project_id": "instagrim-3ec80",
+    "storage_bucket": "instagrim-3ec80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842463606957:android:bd4d9254764dcbe11eee24",
+        "android_client_info": {
+          "package_name": "com.example.instagrim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJukc8oZZxQ7dxCAZ9s2GIFdhpth1sKfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
